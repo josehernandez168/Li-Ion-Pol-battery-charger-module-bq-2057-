@@ -1,0 +1,1 @@
+# Li-Ion-Pol-battery-charger-module-bq-2057-
